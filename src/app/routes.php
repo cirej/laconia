@@ -34,8 +34,8 @@ $router->post('create', 'CreateController@post');
 $router->get('edit', 'EditController@get');
 $router->post('edit', 'EditController@post');
 
-$router->get('users', 'UsersController@get');
+$router->get('client', 'ClientsController@get');
 
-$router->get('user-profile', 'UserProfileController@get');
+$router->get('client-profile', 'ClientProfileController@get');
 
 $router->get('404', 'ExceptionNotFoundController@get');
