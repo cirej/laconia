@@ -4,7 +4,7 @@
     <div class="small-container">
         <div class="lead">
             <h1>Laconia</h1>
-            <p>An MVC framework from scratch in PHP</p>
+            <p>An MVC framework from scratch in PHP- Symfony Integrated</p>
             <a class="button accent-button" href="/register">Demo</a>
             <a class="button" href="https://github.com/taniarascia/laconia">View Source</a>
         </div>
